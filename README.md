@@ -61,3 +61,9 @@ TBD
 3. 右上の「**デベロッパーモード**」を ON にする。
 4. 「**パッケージ化されていない拡張機能を読み込む**」をクリックし、このリポジトリを選択する。
 5. ツールバーに ▶ アイコンが追加されます（必要に応じて拡張機能メニューからピン留め）。
+
+# Zip作成
+
+```
+git archive --format=zip -o bikkuri-slide-{version}.zip HEAD manifest.json background.js src icons
+```
