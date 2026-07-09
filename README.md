@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/b59b836b-a435-4829-95d1-1fdfc5ceafc6
 
 ## chromeストア
 
-TBD
+https://chromewebstore.google.com/detail/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/phnibgcmdhidpgcajfmbnpokifofbagk?authuser=0&hl=ja
 
 ## 開発版インストール
 
