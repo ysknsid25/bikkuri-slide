@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ysknsid25.github.io/bikkuri-slide/sitemap.xml
