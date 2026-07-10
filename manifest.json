@@ -1,23 +1,23 @@
 {
-  "manifest_version": 3,
-  "name": "びっくりスライド",
-  "version": "0.1.0",
-  "description": "はてなブログなどの記事本文だけを抜き出し、モニター全体の全画面でプレゼンテーション表示する拡張機能。",
-  "permissions": ["scripting", "activeTab"],
-  "background": {
-    "service_worker": "background.js"
-  },
-  "action": {
-    "default_title": "びっくりスライド（記事を全画面プレゼン表示）",
-    "default_icon": {
-      "16": "icons/icon16.png",
-      "48": "icons/icon48.png",
-      "128": "icons/icon128.png"
+    "manifest_version": 3,
+    "name": "びっくりスライド",
+    "version": "0.1.1",
+    "description": "はてなブログなどの記事本文だけを抜き出し、モニター全体の全画面でプレゼンテーション表示する拡張機能。",
+    "permissions": ["scripting", "activeTab"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "びっくりスライド（記事を全画面プレゼン表示）",
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
     }
-  },
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  }
 }
